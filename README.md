@@ -1,2 +1,2 @@
-# python
-This project is made in python language.. 
+# python - Text Finder Project
+This project is made in python language.
